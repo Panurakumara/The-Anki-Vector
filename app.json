@@ -1,7 +1,7 @@
 {
       "name": "The Anki Vector",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+      "logo": "https://telegra.ph/file/9f8da951922aa3449cef2.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Damantha126/The-Anki-Vector",
+   "repository": "https://github.com/Panurakumara/The-Anki-Vector",
    "addons": [
       {
          "options": {
